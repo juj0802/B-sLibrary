@@ -12,5 +12,6 @@ public class App {
 	public static void main(String[] args) {
 		// GUI È­¸é ¶ç¿ì±â 
 		new GraphicUserInterface();
+		
 	}
 }
